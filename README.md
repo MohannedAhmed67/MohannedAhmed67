@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate researcher and developer, driven 
 ---
 
 ## 📊 My GitHub Commit Activity
-![Mohanned's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohannedAhmed67&show_icons=true&theme=radical)
+![Mohanned's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohannedAhmed67&show_icons=true&theme=dark)
 ---
 
 ## 🌟 A Glimpse of My Work
