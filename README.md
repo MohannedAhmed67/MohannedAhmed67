@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate researcher and developer, driven 
 
 ## 🛠️ Skills
 ### Programming Languages
-- Python | C++ | R | Java
+- Python | C++ | R | Java | JavaScript | Kotlin | C#
 
 ### Frameworks & Tools
 - PyTorch | TensorFlow | Pandas | Numpy
