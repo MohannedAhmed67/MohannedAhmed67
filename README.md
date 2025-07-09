@@ -1,4 +1,4 @@
-## I'm a NLP Engineer and Web Developer!!
+## I am an NLP Engineer and Web Developer!!
 
 - 👋 Hi, I’m [@Mohanned Ahmed](https://github.com/MohannedAhmed67)
 - 👀 I’m interested in NLP 🧠, Back-End Development 🌐.
