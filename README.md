@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on enhancing the reasoning capabilities of LLMs with Arabic language 🎼.
 - 👯 I’m always looking to collaborate with other researchers in the field of NLP and RL.
 - 📰 Checkout my latest publish papers:
-  * [Guided Code Generation with LLMs: A Multi-Agent Framework for Complex Code Tasks](https://arxiv.org/pdf/2501.06625)
+  * [Guided Code Generation with LLMs: A Multi-Agent Framework for Complex Code Tasks](https://ieeexplore.ieee.org/document/11061204)
   * [Graph Analysis of Citation and Co-authorship Networks of Egyptian Authors](https://arxiv.org/pdf/2501.04015)
 
 <br />
