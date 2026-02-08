@@ -20,7 +20,6 @@ I am a Software Engineer focused on the intersection of **Backend Architecture**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohannedAhmed67&show_icons=true&count_private=true&theme=cobalt&hide_border=true" alt="GitHub Stats" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
